@@ -11,3 +11,11 @@ solucionar tambien con un
 ## Al intentar hacer un `git pull` me dio el mismo conflicto nuevamente y repeti el proceso de `git push master--force`
 
 ##  Al intentar actualizar los datos nuevamente me repitio el mismo error pero esta vez use el `git merge --no-ff` para hacer el mergeo de dichos archivos
+
+## Cree un tag con el comando `git tag`
+
+## Use `git log` para ver el primer commit y luego use `git checkout` para ir a dicho commit
+
+## Al intentar hacer un commit cambio el id del commit
+
+## Para subir el tag use `git push --tag` y luego en carpetainstituto recupere dicho tag con un pull 
