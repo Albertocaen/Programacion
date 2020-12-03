@@ -27,6 +27,7 @@ public class Menu {
                                 default -> System.out.println("Retornar al menu");
                             }
                         }while (opcion != 2);
+                        /*Comentario agregado para git2*/
                         break;
                     case 2:
                         do {
