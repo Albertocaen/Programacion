@@ -9,3 +9,5 @@ para solucionarlo hice un `git push master --force` haciendo que esto se ejecuta
 solucionar tambien con un 
 
 ## Al intentar hacer un `git pull` me dio el mismo conflicto nuevamente y repeti el proceso de `git push master--force`
+
+##  Al intentar actualizar los datos nuevamente me repitio el mismo error pero esta vez use el `git merge --no-ff` para hacer el mergeo de dichos archivos
