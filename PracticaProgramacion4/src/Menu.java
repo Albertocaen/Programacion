@@ -17,6 +17,7 @@ public class Menu {
                 opcion = sc.nextInt();
                 switch (opcion){
                     case 1:
+                        /*Comentario agregado para git*/
                         do {
                             System.out.println("1.-Rectangulo\n" +
                                     "2.-Retornar al Menu");
