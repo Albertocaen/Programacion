@@ -15,7 +15,7 @@ Al intentar hacer un `git pull` me dio el mismo conflicto nuevamente y repeti el
 ## Paso 4
  Al intentar actualizar los datos nuevamente me repitio el mismo error pero esta vez use el `git merge --no-ff` para hacer el mergeo de dichos archivos
 
-##Paso 5
+## Paso 5
  Cree un tag con el comando `git tag`
 
 ## Paso 6
