@@ -26,3 +26,8 @@ Al intentar hacer un commit cambio el id del commit
 
 ## Paso 8
  Para subir el tag use `git push --tag` y luego en carpetainstituto recupere dicho tag con un pull 
+
+
+## paso 9
+
+Cambio en la nueva rama creada con el comando `git branch` 
