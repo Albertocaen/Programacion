@@ -12,19 +12,17 @@ public class Menu {
             do {
                 System.out.println("SELECCIONAR EL PROGRAMA QUE QUIERE EJECUTAR\n" +
                         "1.-EJERCICIO FOR\n" +
-<<<<<<< HEAD
+
                         "2.-EJERCICIO WHILE\n" +
-=======
-                        "2.-EJERCICIO WHILE \n" +
->>>>>>> 78d207d13c98b80197de48211ebf8f20cad22dd0
+
                         "3.-SALIR DEL MENU");
                 opcion = sc.nextInt();
                 switch (opcion){
                     case 1:
-<<<<<<< HEAD
+
                         /*Comentario agregado para git*/
-=======
->>>>>>> 78d207d13c98b80197de48211ebf8f20cad22dd0
+
+
                         do {
                             System.out.println("1.-Rectangulo\n" +
                                     "2.-Retornar al Menu");
@@ -35,10 +33,8 @@ public class Menu {
                                 default -> System.out.println("Retornar al menu");
                             }
                         }while (opcion != 2);
-<<<<<<< HEAD
-=======
-                        /*Comentario agregado para git2*/
->>>>>>> 78d207d13c98b80197de48211ebf8f20cad22dd0
+
+
                         break;
                     case 2:
                         do {
